@@ -16,9 +16,9 @@ interface ProfileData {
  */
 const profileData: ProfileData = {
   typewriterName: [
-    "Heyo peeps, I'm Will.",
+    "Hi!, I'm Mehek.",
     "I love to learn.",
-    "William De Rocco :)",
+    "Mehek Chotrani :)",
   ],
   graduatingClass: 2025,
   majorMinor: "B.A. in Computer Science, Minor in Economics",
